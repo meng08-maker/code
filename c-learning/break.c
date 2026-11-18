@@ -6,7 +6,7 @@
 // a/10=1234
 
 
-int main(){
+int main(void){
     // int a;
     // scanf_s("%d",&a);
     int a=12345;
